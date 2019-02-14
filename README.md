@@ -10,4 +10,4 @@ Based on the results of this demo, I assigned the following ratings to each bean
 | Ease of Use    | X | XX | XXX | XX | XX|
 | Performance | X | XXX | XX | ? | ?|
 
-I found ModelMapper the easiest to use, while offering relatively high performance and being easy to refactor. MapStruct typically required more configuration, but has the fastest performance of the ones looked at. Both would be good candidates for further research, as well as Selma, which looked very similar to MapStruct.
+I found ModelMapper the easiest to use, while offering relatively high performance and being easy to refactor. MapStruct required more configuration, but has the fastest performance of the ones looked at. Both would be good candidates for further research, as well as Selma, which looked very similar to MapStruct.
